@@ -17,3 +17,4 @@ Some things to keep in mind:
  - Cloud variables are reset very often, so don't rely on them to store things like leaderboards.
  - Cloud variables are disabled when the editor is opened.
  - Do not abuse cloud variables to make unmoderated chat rooms.
+ - Please hack bois
